@@ -1,0 +1,5 @@
+fastapi>=0.68.1
+uvicorn>=0.15.0
+graphene>=3.0.0
+starlette-graphql>=0.2.1
+sqlalchemy>=0
